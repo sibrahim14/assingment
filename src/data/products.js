@@ -4,7 +4,7 @@ const products = [
     name: "Women Inner Shorts",
     category: "women",
     price: 249,
-    image:"src/assets/image copy 3.png",
+    image:"public/images/image copy 3.png",
     description: "Lightweight inner shorts"
   },
   {
@@ -12,7 +12,7 @@ const products = [
     name: "Kids Innerwear",
     category: "kids",
     price: 149,
-    image: "src/assets/image copy 4.png",
+    image: "public/images/image copy 4.png",
     description: "Soft innerwear for kids"
   },
   {
@@ -20,7 +20,7 @@ const products = [
     name: "Men Thermal Wear",
     category: "men",
     price: 199,
-    image: "src/assets/image copy 5.png",
+    image: "public/images/image copy 5.png",
     description: "Gentle fabric for men"
   },
   {
@@ -28,7 +28,7 @@ const products = [
     name: "Boys Combed Cotton Assorted Colour Drawer Suttys",
     category: "kids",
     price: 349,
-    image: "src/assets/image copy 6.png",
+    image: "public/images/image copy 6.png",
     description: "Breathable sports innerwear"
   },
   
@@ -37,7 +37,7 @@ const products = [
     name: "Kids Thermal",
     category: "kids",
     price: 259,
-    image: "src/assets/image copy 8.png",
+    image: "public/images/image copy 8.png",
     description: "Warm innerwear for kids"
   },
 {
@@ -45,7 +45,7 @@ const products = [
     name: "Men Cotton Innerwear",
     category: "men",
     price: 299,
-    image: "src/assets/image copy.png",
+    image: "public/images/image copy.png",
     description: "Soft cotton innerwear for daily comfort"
   },
   {
@@ -53,7 +53,7 @@ const products = [
     name: "Men Sports Innerwear",
     category: "men",
     price: 349,
-    image: "/src/assets/image copy 9.png",
+    image: "public/images/image copy 9.png",
     description: "Breathable fabric for workouts"
   },
   {
@@ -61,7 +61,7 @@ const products = [
     name: "Men Premium Brief",
     category: "men",
     price: 399,
-    image: "src/assets/image copy 10.png",
+    image: "public/images/image copy 10.png",
     description: "Premium quality stretch brief"
   },
 
@@ -70,7 +70,7 @@ const products = [
     name: "Women Comfort Bra",
     category: "women",
     price: 399,
-    image: "src/assets/image copy 11.png",
+    image: "public/images/image copy 11.png",
     description: "Everyday comfort bra"
   },
 
@@ -79,7 +79,7 @@ const products = [
     name: "Kids Cotton Vest",
     category: "kids",
     price: 199,
-    image: "src/assets/image copy 12.png",
+    image: "public/images/image copy 12.png",
     description: "Gentle cotton vest for kids"
   },
   {
@@ -87,7 +87,7 @@ const products = [
     name: "Kids Thermal Innerwear",
     category: "kids",
     price: 259,
-    image: "src/assets/image copy 13.png",
+    image: "public/images/image copy 13.png",
     description: "Warm thermal wear for winter"
   },
   {
@@ -95,7 +95,7 @@ const products = [
     name: "Kids Printed Innerwear",
     category: "kids",
     price: 229,
-    image: "src/assets/image copy 14.png",
+    image: "public/images/image copy 14.png",
     description: "Fun prints with soft fabric"
   },
 
