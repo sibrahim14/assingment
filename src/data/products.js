@@ -95,7 +95,7 @@ const products = [
     name: "Kids Printed Innerwear",
     category: "kids",
     price: 229,
-    image: "public/images/image copy 14.png",
+    image: "/images/image copy 14.png",
     description: "Fun prints with soft fabric"
   },
 
